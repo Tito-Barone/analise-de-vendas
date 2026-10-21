@@ -4,9 +4,13 @@ Dashboard desenvolvido no Power BI para analisar vendas, lucro e desempenho come
 
 ![Dashboard de Vendas](dashboard_vendas.png)
 
-## Objetivo
+## Introdução
 
-Analisar a lucratividade por produto e país, acompanhar a evolução mensal das vendas e comparar o desempenho dos segmentos de clientes.
+O objetivo deste projeto é desenvolver um dashboard interativo no Power BI para visualizar e analisar indicadores de vendas e rentabilidade, transformando dados em informações que possam apoiar a tomada de decisões empresariais.
+
+Por meio de indicadores e visualizações, o dashboard permite explorar o desempenho comercial sob diferentes perspectivas, incluindo produtos, países, segmentos de clientes e períodos, facilitando a identificação de padrões e oportunidades de melhoria.
+
+Os dados utilizados foram obtidos da base Financial Sample Excel workbook e são utilizados para fins educacionais e de demonstração. A origem e a natureza dos dados devem ser confirmadas na documentação da base.
 
 ## Indicadores analisados
 
@@ -21,6 +25,7 @@ Analisar a lucratividade por produto e país, acompanhar a evolução mensal das
 
 - Microsoft Power BI
 - Análise e visualização de dados
+- Base de dados Financial Sample Excel workbook
 
 ## Arquivos do projeto
 
