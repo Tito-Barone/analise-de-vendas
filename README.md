@@ -12,15 +12,6 @@ Por meio de indicadores e visualizações, o dashboard permite explorar o desemp
 
 Os dados utilizados foram obtidos da base Financial Sample Excel workbook e são utilizados para fins educacionais e de demonstração. A origem e a natureza dos dados devem ser confirmadas na documentação da base.
 
-## Indicadores analisados
-
-- Vendas totais
-- Lucro total
-- Margem de lucro
-- Unidades vendidas
-- Lucro por produto e país
-- Vendas por mês e segmento
-
 ## Ferramentas utilizadas
 
 - Microsoft Power BI
