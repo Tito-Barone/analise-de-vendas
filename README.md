@@ -10,7 +10,7 @@ O objetivo deste projeto é desenvolver um dashboard interativo no Power BI para
 
 Por meio de indicadores e visualizações, o dashboard permite explorar o desempenho comercial sob diferentes perspectivas, incluindo produtos, países, segmentos de clientes e períodos, facilitando a identificação de padrões e oportunidades de melhoria.
 
-Os dados utilizados foram obtidos da base Financial Sample Excel workbook e são utilizados para fins educacionais e de demonstração. A origem e a natureza dos dados devem ser confirmadas na documentação da base.
+Os dados utilizados foram obtidos da base Financial Sample Excel workbook e são utilizados para fins educacionais e de demonstração.
 
 ## Ferramentas utilizadas
 
