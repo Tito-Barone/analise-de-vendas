@@ -2,7 +2,7 @@
 
 Dashboard desenvolvido no Power BI para analisar vendas, lucro e desempenho comercial.
 
-![Dashboard de Vendas](dashboard_vendas.png)
+![Dashboard de Vendas](Captura%20de%20Telas/analise-de-vendas-e-lucratividade.png)
 
 ## Introdução
 
@@ -20,4 +20,4 @@ Os dados utilizados foram obtidos da base Financial Sample Excel workbook e são
 
 ## Arquivos do projeto
 
-O repositório incluirá o dashboard em formato `.pbix`, as imagens para visualização rápida e um relatório com as principais conclusões da análise.
+O repositório incluirá o dashboard em formato `.pbix`, as imagens para visualização rápida e um relatório em desenvolvimento com as principais conclusões da análise.
