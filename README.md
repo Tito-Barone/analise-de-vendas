@@ -2,7 +2,7 @@
 
 Dashboard desenvolvido no Power BI para analisar vendas, lucro e desempenho comercial.
 
-![Dashboard de Vendas](Captura%20de%20Telas/analise-de-vendas-e-lucratividade.png)
+![Dashboard de Vendas](Captura%20de%20Telas/dashboard-principal.png)
 
 ## Introdução
 
